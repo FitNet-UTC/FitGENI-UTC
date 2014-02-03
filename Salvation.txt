@@ -3,3 +3,12 @@ https://code.google.com/p/proxyshark/
 
 https://code.google.com/p/proxyshark/wiki/Usage
 (usage)
+
+https://code.google.com/p/pyffmpeg/
+(python wrapper ffmpeg)
+
+http://www.flumotion.net/releases/flumotion/0.10.1.html
+(I haven't read a whole lot about this, but it streams on the fly based on user selection of low,med, or high.)
+
+http://opencv.org/
+(I think this shows the most promise)
